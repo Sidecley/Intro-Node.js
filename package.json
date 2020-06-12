@@ -1,0 +1,22 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "introdução ao node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidecley/Intro-Node.js.git"
+  },
+  "author": "Sidecley Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidecley/Intro-Node.js/issues"
+  },
+  "homepage": "https://github.com/Sidecley/Intro-Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
