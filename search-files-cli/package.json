@@ -1,0 +1,14 @@
+{
+  "name": "search-files-cli",
+  "version": "1.0.0",
+  "description": "Exemplo de CLI para procurar arquivos em uma pasta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Sidecley Batista",
+  "license": "ISC"
+}
